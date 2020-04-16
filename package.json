@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq-pc",
+  "version": "0.0.1",
+  "description": "",
+  "main": " ",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
